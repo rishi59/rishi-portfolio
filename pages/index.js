@@ -1,7 +1,7 @@
 
 import Head from 'next/head'
 import Image from 'next/image'
-import { ExperienceCard } from '../components/ExperienceCard'
+import { ExperienceCard } from '../components/ExperienceCard';
 
 export default function Home() {
   return (
